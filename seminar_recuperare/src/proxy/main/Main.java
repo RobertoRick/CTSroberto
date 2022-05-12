@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         MijlocTransport autobuz = new Autobuz(5, 434);
         //autobuz.opresteInStatie();
-
+        autobuz.opresteInStatie();
         autobuz.setNrCalatori(0);
         //autobuz.opresteInStatie();
 
